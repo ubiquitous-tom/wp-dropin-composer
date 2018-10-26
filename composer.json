@@ -1,5 +1,6 @@
 {
     "name": "tsoisoonthorn/rlje-wp-dropin",
+    "type": "wordpress-dropin",
     "require": {
         "composer/installers": "~1.0"
     },
@@ -14,4 +15,3 @@
         "php:lint": "composer install && vendor/bin/phpcs -p"
     }
 }
-
